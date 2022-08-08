@@ -1,4 +1,4 @@
-# RestaurantApp
+# RestaurantsApp
 Single screen app that displays a list of restaurants fetched from remote JSON. Providing the means to select them as favourite.
 
 ## Requirements / dependencies
@@ -43,13 +43,13 @@ $ git clone <repo-url>
 ```
 2. Change to repo directory and run pod install command :
 ```bash
-$ cd RestaurantApp && pod install
+$ cd RestaurantsApp && pod install
 ```
-3. Open RestaurantApp.xcworkspace with Xcode
+3. Open RestaurantsApp.xcworkspace with Xcode
 ```bash
-$ open -a Xcode RestaurantApp.xcworkspace
+$ open -a Xcode RestaurantsApp.xcworkspace
 ```
-4. Select RestaurantApp scheme, select iOS device / simulator
+4. Select RestaurantsApp scheme, select iOS device / simulator
 5. Click "Start" / Cmd + R
 
 ## Tests
