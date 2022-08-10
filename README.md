@@ -1,6 +1,13 @@
 # RestaurantsApp
 Single screen app that displays a list of restaurants fetched from remote JSON. Providing the means to select them as favourite.
 
+## Screenshot
+
+<p align="middle">
+  <img src="https://user-images.githubusercontent.com/67511162/183929964-a5aed26b-8a00-47b9-9e1c-ca5416fd6359.png" data-canonical-src="https://user-images.githubusercontent.com/67511162/183929964-a5aed26b-8a00-47b9-9e1c-ca5416fd6359.png" width="20%" />
+  <img src="https://user-images.githubusercontent.com/67511162/183929982-5999028a-87d6-4b44-86f5-61a50925b5d3.png" data-canonical-src="https://user-images.githubusercontent.com/67511162/183929982-5999028a-87d6-4b44-86f5-61a50925b5d3.png" width="20%" />
+</p>
+
 ## Requirements / dependencies
 * Xcode
 * CocoaPods 1.11.3
